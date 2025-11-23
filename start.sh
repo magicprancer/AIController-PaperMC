@@ -7,4 +7,4 @@ nohup python3 ai_backend.py &> backend.log &
 
 # Start the PaperMC server
 cd ../server
-java -Xms2G -Xmx4G -jar paper-1.20.1.jar nogui
+java -Xms2G -Xmx4G -jar paper-1.21.10-115.jar nogui
