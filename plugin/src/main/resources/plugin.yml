@@ -1,0 +1,10 @@
+name: AIController
+version: 1.0
+main: com.aicontroller.AIController
+api-version: 1.20
+description: AI-controlled Minecraft plugin with GPT-4
+author: magicprancer
+commands:
+  ai:
+    description: Send a command to AI
+    usage: /ai <prompt>
